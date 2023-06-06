@@ -2,4 +2,6 @@
 
 This is a simple readme file
 
-just some updates on a branch 
+## Header 2
+
+hope this causes no conflicts
