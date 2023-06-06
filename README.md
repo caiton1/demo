@@ -2,4 +2,6 @@
 
 This is a simple readme file
 
-just some updates on a branch 
+## Heading 2
+
+This is bound to cause trouble!
